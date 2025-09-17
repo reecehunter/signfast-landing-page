@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'SignFast | Pay-per-signature document signing coming soon',
-  description: 'Pay-per-signature document signing coming soon',
+  title: 'SignFast | The First Document Signer for Small Businesses',
+  description:
+    'Pay-per-signature document signing for small businesses. No monthly fees, just pay for what you use. Start signing documents today.',
 }
 
 export default function RootLayout({
